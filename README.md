@@ -1,3 +1,5 @@
+# This is an experimental branch used mainly to test new features and drastic changes. It's most likely unstable and should not be used. For a more stable cutting edge build check out the development branch, for the latest stable release check out the master and release branches
+
 # === thePlatform Video Manager ===
 Developed By: thePlatform for Media, Inc.  
 Tags: embedding, video, embed, portal, theplatform, shortcode  
